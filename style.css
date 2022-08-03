@@ -145,6 +145,11 @@ h1 {
     .page-title {
         width: 100%;
     }
+    
+    .title-light
+    .title-bold {
+        font-size: 3rem;
+    }
 
     .cards {
         display: flex;
