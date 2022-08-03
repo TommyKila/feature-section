@@ -146,10 +146,6 @@ h1 {
         width: 100%;
     }
     
-    .title-light
-    .title-bold {
-        font-size: 0.5rem;
-    }
 
     .cards {
         display: flex;
